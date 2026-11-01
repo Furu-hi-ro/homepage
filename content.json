@@ -1,0 +1,60 @@
+{
+  "name": "Hiroka Furuuchi",
+  "role": "Doctoral Student",
+  "affiliation": "Graduate School of Economics, Kobe University",
+  "research_interests": "Macroeconomics, Automation, Labor Share, and Inequality",
+  "noindex": true,
+  "papers": [
+    {
+      "title": "The Elasticities of Substitution Between Capitals and Labors and the Aggregate Labor Share",
+      "group": "working_papers",
+      "topics": "Capital-labor substitution · Labor share",
+      "summary": "A dynamic general equilibrium analysis of capital-labor substitution, ICT capital deepening, the aggregate labor share, and the skill premium in Japan.",
+      "status": "Working Paper",
+      "updated": "September 29, 2026",
+      "pdf": "",
+      "pdf_url": "https://drive.google.com/file/d/1MctKBvnFCGWbJkIYGDw3Pj2oJP7_Qvgp/view?usp=drive_link"
+    },
+    {
+      "title": "Foreign Labor and Automation in a Small Open Economy: A Quantitative Model for Japan",
+      "group": "working_papers",
+      "topics": "Foreign labor · Automation · Open-economy macroeconomics",
+      "summary": "A quantitative small open economy model for Japan that studies how foreign labor affects automation adoption and intensity, with remittances and external balance shaping the aggregate response.",
+      "status": "Working Paper",
+      "updated": "September 29, 2026",
+      "pdf": "",
+      "pdf_url": "https://drive.google.com/file/d/1FBEdVxvzIyJfjBVDTnfyfI6byzh6KWcD/view?usp=drive_link"
+    },
+    {
+      "title": "Carbon pricing, licensing, and a persistent dirty equilibrium",
+      "group": "working_papers",
+      "topics": "Technology adoption · R&D · Environmental policy",
+      "summary": "A dynamic general equilibrium model of education, clean research, and costly technology adoption, examining how licensing affects the persistence of a dirty equilibrium and the effectiveness of carbon pricing.",
+      "status": "Working Paper",
+      "updated": "October 5, 2026",
+      "pdf": "",
+      "pdf_url": "https://drive.google.com/file/d/1ksFRX5csb18hs5Ze9dU_eTOBXySWA-P4/view?usp=drive_link"
+    },
+    {
+      "title": "Automation, Skill Choice, and Wage Inequality",
+      "group": "work_in_progress",
+      "topics": "Automation · Skill choice · Wage inequality",
+      "summary": "Research on the interaction between automation, skill choice, and wage inequality.",
+      "status": "Work in Progress",
+      "updated": "",
+      "pdf": "",
+      "pdf_url": ""
+    },
+    {
+      "title": "Human Capital Heterogeneity, Occupational Choice, and R&D in a Dynamic General Equilibrium Model",
+      "authors": "Coauthored with A, Ruhan",
+      "group": "work_in_progress",
+      "topics": "Human capital · Occupational choice · R&D",
+      "summary": "A dynamic general equilibrium model of heterogeneous human capital and occupational choice between production and R&D, examining how the allocation of human capital affects innovation and aggregate economic dynamics.",
+      "status": "Work in Progress",
+      "updated": "",
+      "pdf": "",
+      "pdf_url": ""
+    }
+  ]
+}
